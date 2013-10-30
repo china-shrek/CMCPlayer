@@ -15,6 +15,7 @@ int main()
         {
         case 0:
         case 1:
+        case 2:
         default:
          printf("%s\n",GLOBAL_ERROR(key));
          break;
