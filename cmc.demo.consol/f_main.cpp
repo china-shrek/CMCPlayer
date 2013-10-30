@@ -14,6 +14,7 @@ int main()
         switch(key)
         {
         case 0:
+        case 1:
         default:
          printf("%s\n",GLOBAL_ERROR(key));
          break;
